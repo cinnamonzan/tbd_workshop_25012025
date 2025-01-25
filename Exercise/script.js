@@ -6,7 +6,7 @@
 
 function say_hello() {
     console.log("Chanakanphat")
-    console.log("What is your name?")
+    console.log("Fah")
     
 }
 
