@@ -5,7 +5,7 @@
 // ต้องทำให้เกิด conflict และ แก้ conflict นั้นด้วยการ merge
 
 function say_hello() {
-    // CODE HERE!!!
+    console.log("Chanakanphat")
     console.log("What is your name?")
     
 }
